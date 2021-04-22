@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/bangong.iml" filepath="$PROJECT_DIR$/.idea/bangong.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bangong-server/bangong-server.iml" filepath="$PROJECT_DIR$/bangong-server/bangong-server.iml" />
     </modules>
   </component>
 </project>
