@@ -12,9 +12,6 @@ public class ServerApplication { //implements CommandLineRunner
 
 //    @Override
 //    public void run(String... args) throws Exception {
-//
-//
-//
 ////        Runtime.getRuntime().addShutdownHook(new Thread(){
 ////            @Override
 ////            public void run() {
